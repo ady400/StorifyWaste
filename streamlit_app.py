@@ -2,7 +2,8 @@ import streamlit as st
 import pandas as pd
 from datetime import datetime, date
 import requests
-from streamlit_lottie import st_lottie
+from streamlit_lottie 
+import st_lottie
 
 # 1. PENGATURAN HALAMAN
 st.set_page_config(
