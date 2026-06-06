@@ -212,7 +212,7 @@ if menu_pilihan == "🏠 Beranda Utama":
                 Sistem Pemantauan & Kepatuhan <br><span style="color: #059669;">Limbah B3</span>
             </h1>
             <p style="color: #475569; font-size: 18px; line-height: 1.6; margin-bottom: 20px;">
-                Solusi cerdas integratif untuk pencatatan logbook, standarisasi pengemasan, <br>
+                Solusi cerdas integratif untuk pencatatan logbook, standardisasi pengemasan, <br>
                 pelacakan masa simpan real-time, serta penanggulangan tanggap darurat di TPS.
             </p>
         </div>
